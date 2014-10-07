@@ -1,0 +1,60 @@
+{
+  "name": "Stoke",
+  "designer": "Nicole Fally",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Serif",
+  "size": "57922",
+  "fonts": [
+    {
+      "name": "Stoke",
+      "style": "normal",
+      "weight": 300,
+      "filename": "Stoke-Light.ttf",
+      "postScriptName": "Stoke-Light",
+      "fullName": "Stoke Light",
+      "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Stoke."
+    },
+    {
+      "name": "Stoke",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Stoke-Regular-TTF.ttf",
+      "postScriptName": "Stoke-Regular",
+      "fullName": "Stoke Regular",
+      "copyright": "Copyright (c) 2011-2012 by Sorkin Type Co with Reserved Font Name Stoke.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Stoke",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Stoke-Regular.ttf",
+      "postScriptName": "Stoke-Regular",
+      "fullName": "Stoke-Regular",
+      "copyright": "Copyright (c) 2011-2012 by Sorkin Type Co with Reserved Font Name Stoke.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Stoke",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Stoke-Regular-OTF.ttf",
+      "postScriptName": "Stoke-Regular",
+      "fullName": "Stoke-Regular",
+      "copyright": "Copyright (c) 2011-2012 by Sorkin Type Co with Reserved Font Name Stoke.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Stoke",
+      "style": "normal",
+      "weight": 300,
+      "filename": "Stoke-Light-TTF.ttf",
+      "postScriptName": "Stoke-Light",
+      "fullName": "Stoke Light",
+      "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Stoke."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-08-03"
+}

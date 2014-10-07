@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [Stoke-Regular.ttf.ttx, Stoke-Light.ttf.ttx, src/Stoke-Light.otf.ttx,
+  src/Stoke-Regular.otf.ttx, src/Stoke-Light-TTF.sfd, src/Stoke-Regular-OTF.sfd, src/Stoke-Regular-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
